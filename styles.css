@@ -163,7 +163,25 @@ footer{
     justify-content: space-around;
 
 }
-
+.para{
+    margin-bottom:20px;
+}
 .foot-child{
     width: 400px;
+}
+.footer-title{
+    margin-bottom  : 20px;
+    font-size:25px;
+}
+
+.subscribe{
+    font-size:20px;
+    margin-bottom: 20px;
+
+}
+
+input{
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 10px;
 }
