@@ -6,7 +6,7 @@
 
 /* header styles */
 header{
-    background-image: url('/images/banner/banner2.png');
+    background-image: url('images/banner/banner2.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size:cover;
@@ -128,7 +128,7 @@ section{
 }
 .grad-img-section{
     margin: 0 auto;
-    background-image: linear-gradient(90deg, rgba(115, 0, 255, 0.445) 70%, rgba(0, 0, 0, 0.502)), url('/images/watch.png');
+    background-image: linear-gradient(90deg, rgba(115, 0, 255, 0.445) 70%, rgba(0, 0, 0, 0.502)), url('images/watch.png');
     background-repeat: no-repeat;
     height: 250px;
     width: 65%;
